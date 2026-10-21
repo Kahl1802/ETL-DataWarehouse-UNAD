@@ -1,0 +1,1 @@
+SELECT * FROM View_Cubo_Logico_Ventas LIMIT 20;
